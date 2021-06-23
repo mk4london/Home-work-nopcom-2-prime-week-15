@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="25.350">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldLoginWithValidCredentials" time="15.507" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserShouldNotLoginWithInvalidCredentials" time="8.230" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+                <testcase name="verifyUserShouldNavigateToLoginPage" time="1.613" classname="com.nopcommerce.demo.testsuite.LoginTest" />
+      
+</testsuite>
